@@ -1,1 +1,1 @@
-import app from "/app.svelte";
+export { default as app } from "./app.svelte";
