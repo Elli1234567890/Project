@@ -58,7 +58,7 @@
   
   label.c_box input[type='checkbox']:checked~span{
     opacity: 1;
-    background: url(./img/checked-icon.svg) no-repeat center;
+    background: url(../img/checked-icon.svg) no-repeat center;
     background-size: 25px 25px;
     border-color: #f14d34;
     outline: 0;
@@ -72,7 +72,7 @@
   
   .footer {
     background: linear-gradient(254.72deg,rgba(255,255,255,.276) -114.85%,rgba(255,255,255,0) 69.04%),
-    url(img/D-flying.svg) no-repeat top center,url(img/D-footer.svg) no-repeat bottom right,#040613;
+    url(../img/D-flying.svg) no-repeat top center,url(../img/D-footer.svg) no-repeat bottom right,#040613;
     padding: 25px 0 54px;
     color: #fff;
     font-family: Montserrat;
@@ -125,7 +125,7 @@
     height: 18px;
     left: 3px;
     bottom: 4px;
-    background: url(img/phone.svg) no-repeat center;
+    background: url(../img/phone.svg) no-repeat center;
     background-size: contain;
     opacity: .8;
 
@@ -149,7 +149,7 @@
     height: 18px;
     left: 0;
     bottom: 0;
-    background: url(img/mail.svg) no-repeat center;
+    background: url(../img/mail.svg) no-repeat center;
     background-size: contain;
     opacity: .8;
   }
